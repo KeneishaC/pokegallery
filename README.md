@@ -4,20 +4,22 @@ A simple web application that displays pokemon data sing pokemon API
 
 
 ## Technologies Used
--HTML5
--CSS#
--JavaScript
--jQuery
--Google Fonts
--jQuery Modal
--Pokemon API
+
+- HTML5
+- CSS#
+- JavaScript
+- jQuery
+- Google Fonts
+- jQuery Modal
+- Pokemon API
 
 ## Screenshots!
+
 [wireframe](./imgs/wireframe.png)
 
 
-## 
-Getting Started
+## Getting Started
+
 [clickHere](#) to see deployed app!
 
 ## Future Enhancements 
